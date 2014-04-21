@@ -1,6 +1,6 @@
 Don't let the facists control our democracy!
 
-Install this app in your enemy's laptop an cron it to run each time they try to hit
+Install this app in your enemy's laptop and cron it to run each time they try to hit
 our leader and party.
 
 
