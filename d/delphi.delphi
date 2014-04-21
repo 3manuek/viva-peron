@@ -1,0 +1,8 @@
+// Viva Peron! in Delphi
+Program Viva_Peron;
+
+($APPTYPE CONSOLE)
+
+Begin
+  WriteLn('Viva Peron!');
+End.

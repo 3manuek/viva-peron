@@ -1,0 +1,8 @@
+MODULE VivaPeron;
+
+IMPORT Out;
+
+BEGIN
+   Out.Open;
+   Out.String('Viva Peron');
+END VivaPeron.

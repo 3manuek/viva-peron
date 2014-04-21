@@ -1,0 +1,4 @@
+Begin
+   OutText ("Viva Peron!");
+   Outimage;
+End;

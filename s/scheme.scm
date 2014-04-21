@@ -1,0 +1,1 @@
+(display "Viva Peron") (newline)

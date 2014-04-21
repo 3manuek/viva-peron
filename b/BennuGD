@@ -1,0 +1,6 @@
+import "mod_say" 
+ 
+Process Main()
+Begin 
+    say("Viva Peron!!");
+End

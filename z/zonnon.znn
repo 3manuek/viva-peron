@@ -1,0 +1,4 @@
+module VivaPeron;
+begin
+    writeln("Viva Peron");
+end VivaPeron.    

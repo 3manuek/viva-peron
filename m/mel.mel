@@ -1,0 +1,4 @@
+proc helloWorld () {
+   print "Viva Peron\n";
+}
+helloWorld;

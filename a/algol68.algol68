@@ -1,0 +1,3 @@
+begin
+  print(("Viva Peron!",newline))
+end

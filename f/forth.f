@@ -1,0 +1,1 @@
+: HELLO S" Viva Peron!" TELL CR ;

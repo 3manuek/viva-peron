@@ -1,0 +1,6 @@
+VivaPeron is a zombie
+summon
+  task SayHello
+      say "Viva Peron!"
+  animate
+animate

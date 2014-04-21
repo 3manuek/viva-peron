@@ -1,0 +1,1 @@
+write('Viva Peron').
